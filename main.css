@@ -1,0 +1,50 @@
+table 
+{
+    border : 1px solid black;
+    height: 450px;
+    width : 450px;
+    text-align : center;
+    border-radius: 10px;
+}
+
+tr 
+{
+    border : 1px solid black;
+    text-align : center;
+    border-radius: 10px;
+
+}
+
+h1
+{
+    color: red; 
+}
+
+td
+{
+    font-size: 2em;
+    font-style: bold;
+    border : 1px solid black;
+    text-align : center;
+    border-radius: 10px;
+    background-color: white;
+}
+
+body
+{
+    background-image: url("pic.jpg");
+}
+
+div
+{
+    font-size: 7 em;
+    font-weight : bold;
+    color: red;
+}
+
+#score
+{
+    font-size: 7 em;
+    font-weight : bold;
+    color: red;
+}
