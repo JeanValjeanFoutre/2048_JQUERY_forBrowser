@@ -1,10 +1,9 @@
-# 2048_JQUERY_forBrowser
+# 2048_JQUERY
 
-2-days project made in solo for EPITECH (College of engineering based in France). 
+Hi guys, here is a mini project I made during my formation at EPITECH. 
 
-The index.js must be executed with a browser. PLug-ins were not installed yet, but the game is operationnal. 
+To execute the game, just open index.js in your browser and select the size of the game grid (from 4x4 to 7x7 tiles), and confirm, then, start playing !
 
-features :
--score
--choice of the the dimension of the game grid
+Rules of 2948 can be red here : https://en.wikipedia.org/wiki/2048_(video_game)
 
+enjoy
